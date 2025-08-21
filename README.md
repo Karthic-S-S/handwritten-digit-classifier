@@ -34,7 +34,11 @@ python mnist.py
 📌 Topics
 
 pytorch
+
 mnist
+
 deep-learning
+
 neural-network
+
 handwritten-digit-recognition
