@@ -4,7 +4,6 @@ A PyTorch implementation of a simple feedforward neural network trained on the M
 This project includes both a Jupyter Notebook for step-by-step exploration and a Python script for direct execution.
 
 ---
-
 ## 📂 Project Structure
 handwritten-digit-classifier/
 │
@@ -32,14 +31,9 @@ python mnist.py
 
 
 
-📌 Topics
-
-pytorch
-
-mnist
-
-deep-learning
-
-neural-network
-
-handwritten-digit-recognition
+## 📌 Topics
+- pytorch
+- mnist
+- deep learning
+- neural network
+- handwritten digit recognition
