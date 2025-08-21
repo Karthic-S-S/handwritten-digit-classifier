@@ -14,6 +14,7 @@ handwritten-digit-classifier/
 ├── .gitignore # Ignore unnecessary files
 └── README.md # Project documentation
 
+
 ---
 
 ## 🚀 Getting Started
