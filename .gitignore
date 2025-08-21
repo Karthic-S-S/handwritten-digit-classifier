@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Auto-downloaded datasets
+data/
+
+# Model weights
+*.pth
